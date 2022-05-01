@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R1 Old Footprint=FP-ERJ2RK-IPC_C New Footprint=RES_BR3_STP
+Added Pin To Net: NetName=MCUPWMVL Pin=R23-2

@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=L1-1
+Removed Pin From Net: NetName=GND Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=L1-3
+Removed Pin From Net: NetName=GND Pin=L1-4
+Removed Pin From Net: NetName=GND Pin=L1-5
+Removed Pin From Net: NetName=24V Pin=L1-6
+Removed Pin From Net: NetName=24V Pin=L1-7
+Removed Pin From Net: NetName=24V Pin=L1-8
+Removed Pin From Net: NetName=GND Pin=L1-12
+Removed Pin From Net: NetName=GND Pin=L1-13
+Removed Pin From Net: NetName=GND Pin=L1-14
+Removed Pin From Net: NetName=GND Pin=L1-15
+Removed Pin From Net: NetName=GND Pin=L1-16
+Removed Member From Class: ClassName=Boostconverter Member=L1
+Added Component: Designator=B1(B66366B1018T001)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1620179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "38.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "EPCOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B66366B1018T001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1620179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1620179"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND Pin=B1-3
+Added Pin To Net: NetName=GND Pin=B1-4
+Added Pin To Net: NetName=GND Pin=B1-5
+Added Pin To Net: NetName=GND Pin=B1-6
+Added Pin To Net: NetName=24V Pin=B1-7
+Added Pin To Net: NetName=24V Pin=B1-8
+Added Pin To Net: NetName=24V Pin=B1-9
+Added Pin To Net: NetName=GND Pin=B1-13
+Added Pin To Net: NetName=GND Pin=B1-14
+Added Pin To Net: NetName=GND Pin=B1-15
+Added Pin To Net: NetName=GND Pin=B1-16
+Added Pin To Net: NetName=GND Pin=B1-17
+Added Pin To Net: NetName=GND Pin=B1-18
+Added Pin To Net: NetName=NetB1_10 Pin=B1-10
+Added Pin To Net: NetName=NetB1_10 Pin=B1-11
+Added Pin To Net: NetName=NetB1_10 Pin=B1-12
+Added Pin To Net: NetName=NetB1_10 Pin=Q1-2
+Added Pin To Net: NetName=NetB1_10 Pin=Q2-2
+Added Net: Name=NetB1_10
+Added Member To Class: ClassName=Boostconverter Member=Component B1 B66366B1018T001
+Added Member To Class: ClassName=Inverter Member=Component C26 100nF
+Added Member To Class: ClassName=Inverter Member=Component C27 10nF
+Added Member To Class: ClassName=Inverter Member=Component U9 MLX91221KDC-ABF-050-SP

@@ -1,0 +1,268 @@
+Change Component Footprint: Designator=C28 Old Footprint=CAPR5-4X5 New Footprint=CAPPR55-200-1100X500X1200
+Change Component Footprint: Designator=C30 Old Footprint=CAPR5-4X5 New Footprint=CAPPR55-200-1100X500X1200
+Change Component Footprint: Designator=C33 Old Footprint=CAPR5-4X5 New Footprint=CAPPR55-200-1100X500X1200
+Change Component Footprint: Designator=C20 Old Footprint=FP-0603-L_1_6_0_15-W_0_81-IPC_A New Footprint=PNSC-ECA-1VM221-2
+Change Component Comment : Designator=C20 Old Comment=0603 220uf New Comment=220uf
+Change Managed Component Library Link : Designator=C20 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 New ItemGUID=72BDAA74-A0A1-44ED-AC36-8BE939634D0B Old RevisionGUID=4C0D725B-B931-4836-A434-2B2B20CA942D New RevisionGUID=90E769C1-02E4-47B2-B773-A7C1376EC405
+Change Managed Component Library Link : Designator=C28 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=B9FBCB88-45BC-4205-B21E-333E995F0E2C Old RevisionGUID= New RevisionGUID=82925772-1872-4D13-8D6C-652F4399D9D1
+Change Managed Component Library Link : Designator=C30 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=B9FBCB88-45BC-4205-B21E-333E995F0E2C Old RevisionGUID= New RevisionGUID=82925772-1872-4D13-8D6C-652F4399D9D1
+Change Managed Component Library Link : Designator=C33 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=B9FBCB88-45BC-4205-B21E-333E995F0E2C Old RevisionGUID= New RevisionGUID=82925772-1872-4D13-8D6C-652F4399D9D1
+Change component parameters: Designator = "C20" ("C20"); Footprint = "FP-0603-L_1_6_0_15-W_0_81-IPC_A"; UniqueID = "\AURUKIMB" ("\AURUKIMB")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "Ø8x11.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/26341/441851-da-01-en-elko-eca1vm221-m-r-220myf-35v-85c-26341906.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Mar-06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-40to+85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp-Max"; Value = "85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Axial Lead, Dia 8 mm, Body Length 12.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "ECA-1VM221"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "350mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAPR5-4X5"; UniqueID = "\NNGMSSWB" ("\NNGMSSWB")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 05, 10/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dissipation Factor"; Value = "0.12%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.472inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Diameter"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead/Base Style"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "3uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "11mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "2000Hour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 5 mm, Height 12 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "CAPPR55-200-1100X500X1200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "CAPR5-4X5"; UniqueID = "\COPRKGTB" ("\COPRKGTB")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 05, 10/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dissipation Factor"; Value = "0.12%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.472inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Diameter"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead/Base Style"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "3uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "11mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "2000Hour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 5 mm, Height 12 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "CAPPR55-200-1100X500X1200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "CAPR5-4X5"; UniqueID = "\UUVGYQKF" ("\UUVGYQKF")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 05, 10/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dissipation Factor"; Value = "0.12%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.472inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Diameter"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead/Base Style"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "3uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "11mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "2000Hour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 5 mm, Height 12 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "CAPPR55-200-1100X500X1200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIPS762W60P254L1016H525Q8N
+Add Pin To Net: Unknown Pin: Pin *1-1
+Add Pin To Net: Unknown Pin: Pin *1-2
+Add Pin To Net: Unknown Pin: Pin *1-3
+Add Pin To Net: Unknown Pin: Pin *1-4
+Add Pin To Net: Unknown Pin: Pin *1-5
+Add Pin To Net: Unknown Pin: Pin *1-6
+Add Pin To Net: Unknown Pin: Pin *1-7
+Add Pin To Net: Unknown Pin: Pin *1-8
+Add Pin To Net: Unknown Pin: Pin *1-9
+Add Pin To Net: Unknown Pin: Pin *1-10
+Add Pin To Net: Unknown Pin: Pin *1-16
+Add Pin To Net: Unknown Pin: Pin *1-17
+Add Pin To Net: Unknown Pin: Pin *1-18
+Add Pin To Net: Unknown Pin: Pin *1-19
+Add Pin To Net: Unknown Pin: Pin *1-20
+Add Pin To Net: Unknown Pin: Pin D2-+
+Add Pin To Net: Unknown Pin: Pin D2--
+Add Pin To Net: Unknown Pin: Pin D3-+
+Add Pin To Net: Unknown Pin: Pin D3--
+Add Pin To Net: Unknown Pin: Pin D4-+
+Add Pin To Net: Unknown Pin: Pin D4--
+Add Pin To Net: Unknown Pin: Pin D5-+
+Add Pin To Net: Unknown Pin: Pin D5--
+Add Pin To Net: Unknown Pin: Pin D6-+
+Add Pin To Net: Unknown Pin: Pin D6--
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-7
+Add Pin To Net: Unknown Pin: Pin J3-8
+Add Pin To Net: Unknown Pin: Pin PS1-1
+Add Pin To Net: Unknown Pin: Pin PS1-2
+Add Pin To Net: Unknown Pin: Pin PS1-3
+Add Pin To Net: Unknown Pin: Pin PS2-1
+Add Pin To Net: Unknown Pin: Pin PS2-2
+Add Pin To Net: Unknown Pin: Pin PS2-3
+Add Pin To Net: Unknown Pin: Pin PS3-1
+Add Pin To Net: Unknown Pin: Pin PS3-2
+Add Pin To Net: Unknown Pin: Pin PS3-3
+Add Pin To Net: Unknown Pin: Pin RA1-1
+Add Pin To Net: Unknown Pin: Pin RA1-2
+Add Pin To Net: Unknown Pin: Pin RA1-3
+Add Pin To Net: Unknown Pin: Pin RA1-4
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Add Pin To Net: Unknown Pin: Pin TP11-1
+Add Pin To Net: Unknown Pin: Pin TP12-1
+Add Pin To Net: Unknown Pin: Pin TP13-1
+Add Pin To Net: Unknown Pin: Pin TP14-1
+Add Pin To Net: Unknown Pin: Pin TP15-1
+Add Pin To Net: Unknown Pin: Pin TP16-1
+Add Pin To Net: Unknown Pin: Pin TP17-1
+Add Pin To Net: Unknown Pin: Pin TP18-1
+Add Pin To Net: Unknown Pin: Pin TP19-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-5
+Add Pin To Net: Unknown Pin: Pin U8-6
+Add Pin To Net: Unknown Pin: Pin U8-7
+Add Pin To Net: Unknown Pin: Pin U8-8
+Add Class Member: Failed to add class member : Component *1 SN74LVC245A
+Add Class Member: Failed to add class member : Component D2 LED
+Add Class Member: Failed to add class member : Component D3 LED
+Add Class Member: Failed to add class member : Component D4 LED
+Add Class Member: Failed to add class member : Component D5 LED
+Add Class Member: Failed to add class member : Component D6 LED
+Add Class Member: Failed to add class member : Component J3 DILB8P-223TLF
+Add Class Member: Failed to add class member : Component PS1 P78E-1000
+Add Class Member: Failed to add class member : Component PS2 P78E-1000
+Add Class Member: Failed to add class member : Component PS3 P78E-1000
+Add Class Member: Failed to add class member : Component RA1 ACASN2001S2001P1AT
+Add Class Member: Failed to add class member : Component TP1 Test Point
+Add Class Member: Failed to add class member : Component TP2 Test Point
+Add Class Member: Failed to add class member : Component TP3 Test Point
+Add Class Member: Failed to add class member : Component TP4 Test Point
+Add Class Member: Failed to add class member : Component TP5 Test Point
+Add Class Member: Failed to add class member : Component TP6 Test Point
+Add Class Member: Failed to add class member : Component TP7 Test Point
+Add Class Member: Failed to add class member : Component TP8 Test Point
+Add Class Member: Failed to add class member : Component TP9 Test Point
+Add Class Member: Failed to add class member : Component TP10 Test Point
+Add Class Member: Failed to add class member : Component TP11 Test Point
+Add Class Member: Failed to add class member : Component TP12 Test Point
+Add Class Member: Failed to add class member : Component TP13 Test Point
+Add Class Member: Failed to add class member : Component TP14 Test Point
+Add Class Member: Failed to add class member : Component TP15 Test Point
+Add Class Member: Failed to add class member : Component TP16 Test Point
+Add Class Member: Failed to add class member : Component TP17 Test Point
+Add Class Member: Failed to add class member : Component TP18 Test Point
+Add Class Member: Failed to add class member : Component TP19 Test Point
+Add Class Member: Failed to add class member : Component U1 INA155U
+Add Class Member: Failed to add class member : Component U2 MCP6001T
+Add Class Member: Failed to add class member : Component U3 MCP6001T
+Add Class Member: Failed to add class member : Component U6 MCP6001T
+Add Class Member: Failed to add class member : Component U7 MLX91221KDC-ABF-050-SP
+Add Class Member: Failed to add class member : Component U8 MLX91221KDC-ABF-050-SP
