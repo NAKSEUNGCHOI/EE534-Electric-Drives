@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=3.3V Pin=C48-1
+Removed Pin From Net: NetName=GND Pin=C48-2
+Removed Pin From Net: NetName=3.3V Pin=C53-1
+Removed Pin From Net: NetName=GND Pin=C53-2
+Change Component Footprint: Designator=C48 Old Footprint=FP-0603-L_1_6_0_15-W_0_81-IPC_A New Footprint=CAPC1609X100X15LL20
+Change Component Footprint: Designator=C53 Old Footprint=FP-0603-L_1_6_0_15-W_0_81-IPC_A New Footprint=CAPC1609X100X15LL20
+Change Footprint: Footprint Not Found FP-ERJ2RK-IPC_C
+Change Managed Component Library Link : Designator=C48 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 New ItemGUID=95DDB486-72A3-4198-A781-A7670744B25C Old RevisionGUID=4C0D725B-B931-4836-A434-2B2B20CA942D New RevisionGUID=607D2B5E-803C-42BF-A512-8C27CBF53D8F
+Change Managed Component Library Link : Designator=C53 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 New ItemGUID=95DDB486-72A3-4198-A781-A7670744B25C Old RevisionGUID=4C0D725B-B931-4836-A434-2B2B20CA942D New RevisionGUID=607D2B5E-803C-42BF-A512-8C27CBF53D8F
+Change component parameters: Designator = "C48" ("C48"); Footprint = "FP-0603-L_1_6_0_15-W_0_81-IPC_A"; UniqueID = "\UBMNFKVF" ("\UBMNFKVF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TACL105M006XTA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C53" ("C53"); Footprint = "FP-0603-L_1_6_0_15-W_0_81-IPC_A"; UniqueID = "\WGOJPVTD" ("\WGOJPVTD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TACL105M006XTA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=3.3V Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=3.3V Pin=C53-2

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetB1_10 Pin=Q1-2
+Removed Pin From Net: NetName=48V Pin=Q1-3
+Change Component Comment : Designator=C3 Old Comment=18uF New Comment=20uF
+Change Component Comment : Designator=Q1 Old Comment=IPP200N15N3GXKSA1 New Comment=MOSFET
+Change Component Comment : Designator=Q2 Old Comment=IPP200N15N3GXKSA1 New Comment=MOSFET
+Change Component Designator: OldDesignator= NewDesignator=C25
+Change Component Designator: OldDesignator= NewDesignator=U11
+Added Component: Designator=C3.2(CAPC1609X100X15LL20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TACL105M006XTA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3.2-1
+Added Pin To Net: NetName=NetC3_1 Pin=C3.2-2
+Add Pin To Net: Unknown Pin: Pin H1-1
+Add Pin To Net: Unknown Pin: Pin H2-1
+Add Pin To Net: Unknown Pin: Pin H3-1
+Add Pin To Net: Unknown Pin: Pin H4-1
+Added Pin To Net: NetName=48V Pin=Q1-2
+Added Pin To Net: NetName=NetB1_10 Pin=Q1-3
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC3.2_2
+Added Member To Class: ClassName=Power Member=Component C3.2 10uF
+Added Member To Class: ClassName=Power Member=Component C10 22nF
+Added Member To Class: ClassName=Inverter Member=Component C25 100nF
+Added Member To Class: ClassName=MCU Member=Component U11 C2000
+Added Room: Name=Boostconverter
+Added Room: Name=Inverter
+Added Room: Name=MCU
+Added Room: Name=Power

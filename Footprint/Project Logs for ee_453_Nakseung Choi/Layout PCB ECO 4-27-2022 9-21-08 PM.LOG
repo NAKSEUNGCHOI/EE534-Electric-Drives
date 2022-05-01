@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=C15-N
+Removed Pin From Net: NetName=48V Pin=C15-P
+Removed Pin From Net: NetName=GND Pin=C15.2-N
+Removed Pin From Net: NetName=48V Pin=C15.2-P
+Change Component Footprint: Designator=C15.2 Old Footprint=CAPPRD500W60D1000H1600 New Footprint=CAP_TXW_10X50_LOW_RUB
+Change Component Footprint: Designator=C15 Old Footprint=CAPPRD500W60D1000H1600 New Footprint=CAP_TXW_10X50_LOW_RUB
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAPPRD500W60D1000H1600"; UniqueID = "\ZFXLXDIK" ("\ZFXLXDIK")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "1189-1017-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "100TXW270MEFC10X50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Rubycon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15.2" ("C15.2"); Footprint = "CAPPRD500W60D1000H1600"; UniqueID = "\LTXRIRFN" ("\LTXRIRFN")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "1189-1017-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "100TXW270MEFC10X50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Rubycon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=48V Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=48V Pin=C15.2-1
+Added Pin To Net: NetName=GND Pin=C15.2-2
+Add Pin To Net: Unknown Pin: Pin H1-1
+Add Pin To Net: Unknown Pin: Pin H2-1
+Add Pin To Net: Unknown Pin: Pin H3-1
+Add Pin To Net: Unknown Pin: Pin H4-1
+Added Room: Name=Boostconverter
+Added Room: Name=Inverter
+Added Room: Name=MCU
+Added Room: Name=Power

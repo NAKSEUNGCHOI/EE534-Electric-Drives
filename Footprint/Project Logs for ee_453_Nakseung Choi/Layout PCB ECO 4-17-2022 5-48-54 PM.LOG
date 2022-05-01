@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=48V Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=48V Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=48V Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=48V Pin=C16-2
+Removed Pin From Net: NetName=15V Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Member From Class: ClassName=Boostconverter Member=D2
+Removed Member From Class: ClassName=Boostconverter Member=D3
+Change Component Footprint: Designator=C12 Old Footprint=FP-0603-L_1_6_0_15-W_0_81-IPC_A New Footprint=CAPC1609X100X15LL20
+Change Component Footprint: Designator=C13 Old Footprint=FP-0603-L_1_6_0_15-W_0_81-IPC_A New Footprint=CAPC1609X100X15LL20
+Change Component Footprint: Designator=C14 Old Footprint=FP-0603-L_1_6_0_15-W_0_81-IPC_A New Footprint=CAPC1609X100X15LL20
+Change Component Footprint: Designator=C16 Old Footprint=FP-0603-L_1_6_0_15-W_0_81-IPC_A New Footprint=CAPC1609X100X15LL20
+Change Component Footprint: Designator=C17 Old Footprint=FP-0603-L_1_6_0_15-W_0_81-IPC_A New Footprint=CAPC1609X100X15LL20
+Change Component Footprint: Designator=C19 Old Footprint=FP-0603-L_1_6_0_15-W_0_81-IPC_A New Footprint=CAPC1609X100X15LL20
+Change Footprint: Footprint Not Found FP-ERJ2RK-IPC_C
+Change Component Comment : Designator=C12 Old Comment=060310uf New Comment=10nF
+Change Component Comment : Designator=C13 Old Comment=060310uf New Comment=10nF
+Change Component Comment : Designator=C14 Old Comment=060310uf New Comment=10nF
+Change Component Comment : Designator=C16 Old Comment=0603 10uf New Comment=10nF
+Change Component Comment : Designator=C17 Old Comment=0603 100nf New Comment=100nF
+Change Component Comment : Designator=C19 Old Comment=0603 100nf New Comment=100nF
+Change Managed Component Library Link : Designator=C12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 New ItemGUID=95DDB486-72A3-4198-A781-A7670744B25C Old RevisionGUID=4C0D725B-B931-4836-A434-2B2B20CA942D New RevisionGUID=607D2B5E-803C-42BF-A512-8C27CBF53D8F
+Change Managed Component Library Link : Designator=C13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 New ItemGUID=95DDB486-72A3-4198-A781-A7670744B25C Old RevisionGUID=4C0D725B-B931-4836-A434-2B2B20CA942D New RevisionGUID=607D2B5E-803C-42BF-A512-8C27CBF53D8F
+Change Managed Component Library Link : Designator=C14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 New ItemGUID=95DDB486-72A3-4198-A781-A7670744B25C Old RevisionGUID=4C0D725B-B931-4836-A434-2B2B20CA942D New RevisionGUID=607D2B5E-803C-42BF-A512-8C27CBF53D8F
+Change Managed Component Library Link : Designator=C16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 New ItemGUID=95DDB486-72A3-4198-A781-A7670744B25C Old RevisionGUID=4C0D725B-B931-4836-A434-2B2B20CA942D New RevisionGUID=607D2B5E-803C-42BF-A512-8C27CBF53D8F
+Change Managed Component Library Link : Designator=C17 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 New ItemGUID=95DDB486-72A3-4198-A781-A7670744B25C Old RevisionGUID=4C0D725B-B931-4836-A434-2B2B20CA942D New RevisionGUID=607D2B5E-803C-42BF-A512-8C27CBF53D8F
+Change Managed Component Library Link : Designator=C19 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 New ItemGUID=95DDB486-72A3-4198-A781-A7670744B25C Old RevisionGUID=4C0D725B-B931-4836-A434-2B2B20CA942D New RevisionGUID=607D2B5E-803C-42BF-A512-8C27CBF53D8F
+Change component parameters: Designator = "C12" ("C12"); Footprint = "FP-0603-L_1_6_0_15-W_0_81-IPC_A"; UniqueID = "\ZQWPPRGW" ("\ZQWPPRGW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TACL105M006XTA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "FP-0603-L_1_6_0_15-W_0_81-IPC_A"; UniqueID = "\ASKPONVV" ("\ASKPONVV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TACL105M006XTA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "FP-0603-L_1_6_0_15-W_0_81-IPC_A"; UniqueID = "\JJCPJSWQ" ("\JJCPJSWQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TACL105M006XTA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "FP-0603-L_1_6_0_15-W_0_81-IPC_A"; UniqueID = "\QDXAUYJZ" ("\QDXAUYJZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TACL105M006XTA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "FP-0603-L_1_6_0_15-W_0_81-IPC_A"; UniqueID = "\KKETORGJ" ("\KKETORGJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TACL105M006XTA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "FP-0603-L_1_6_0_15-W_0_81-IPC_A"; UniqueID = "\XWEFKYJN" ("\XWEFKYJN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TACL105M006XTA"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1609X100X15LL20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TACL105M006XTA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=48V Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=48V Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=48V Pin=C14-2
+Added Pin To Net: NetName=48V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=15V Pin=C19-2
+Added Member To Class: ClassName=Inverter Member=Component C? TACL105M006XTA
