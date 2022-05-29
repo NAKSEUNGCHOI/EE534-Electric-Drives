@@ -1,9 +1,0 @@
-Change Component Footprint: Designator=J3 Old Footprint=HDR1X3 New Footprint=3-Pin TB 5mm Pitch
-Change Component Footprint: Designator=P1 Old Footprint=HDR1X3 New Footprint=3-Pin TB 5mm Pitch
-Change Component Footprint: Designator=J4 Old Footprint=HDR1X5 New Footprint=5-Pin TB 5mm Pitch
-Add Pin To Net: Unknown Pin: Pin H1-1
-Add Pin To Net: Unknown Pin: Pin H2-1
-Add Pin To Net: Unknown Pin: Pin H3-1
-Add Pin To Net: Unknown Pin: Pin H4-1
-Added Room: Name=Boostconverter
-Added Room: Name=Power
