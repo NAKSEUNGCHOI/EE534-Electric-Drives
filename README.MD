@@ -1,6 +1,7 @@
 # ECE 534 Electric Drives
 
 UW ECE 534 Electric Drives Project
+schematics and layout.
 
 ## Description
 
