@@ -13,15 +13,12 @@ schematics and layout.
 
 ## Authors
 
-* Nakseung Choi (UW ECE master student) https://www.linkedin.com/in/nakseung-choi-090a1b69/
-* Cody Birkland (UW ECE master student, Ultropia)
+* Nakseung Choi (UW ECE Graduate Research Assistant) https://www.linkedin.com/in/nakseung-choi-090a1b69/
+* Cody Birkland (UW ECE MS student, Ultropia)
 
-## Version History
+## Release Notes
 
-* 0.2
-    * Still working on it.
-* 0.1
-    * Initial Release
+<pre>Final release                     06-25-2022<pre/>
 
 ## License
 
