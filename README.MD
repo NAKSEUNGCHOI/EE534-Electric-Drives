@@ -18,7 +18,7 @@ schematics and layout.
 
 ## Release Notes
 
-<pre>Final release                     06-25-2022<pre/>
+<pre>Final release                     06-25-2022</pre>
 
 ## License
 
